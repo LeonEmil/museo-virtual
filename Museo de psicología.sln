@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Museo de psicología.CSharp.Plugins", "Museo de psicología.CSharp.Plugins.csproj", "{3D6ED9FD-D3FD-CBBF-F51A-683C6337C97A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Museo de psicología.CSharp.Editor", "Museo de psicología.CSharp.Editor.csproj", "{8C3B2BF9-5DEC-C9D9-043B-E04B96F9521D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D6ED9FD-D3FD-CBBF-F51A-683C6337C97A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6ED9FD-D3FD-CBBF-F51A-683C6337C97A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D6ED9FD-D3FD-CBBF-F51A-683C6337C97A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6ED9FD-D3FD-CBBF-F51A-683C6337C97A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C3B2BF9-5DEC-C9D9-043B-E04B96F9521D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3B2BF9-5DEC-C9D9-043B-E04B96F9521D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3B2BF9-5DEC-C9D9-043B-E04B96F9521D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3B2BF9-5DEC-C9D9-043B-E04B96F9521D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
